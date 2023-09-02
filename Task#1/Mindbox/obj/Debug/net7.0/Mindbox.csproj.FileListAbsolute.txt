@@ -1,0 +1,11 @@
+D:\repos\Mindbox\Task#1\Mindbox\bin\Debug\net7.0\Mindbox.deps.json
+D:\repos\Mindbox\Task#1\Mindbox\bin\Debug\net7.0\Mindbox.dll
+D:\repos\Mindbox\Task#1\Mindbox\bin\Debug\net7.0\Mindbox.pdb
+D:\repos\Mindbox\Task#1\Mindbox\obj\Debug\net7.0\Mindbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Mindbox\Task#1\Mindbox\obj\Debug\net7.0\Mindbox.AssemblyInfoInputs.cache
+D:\repos\Mindbox\Task#1\Mindbox\obj\Debug\net7.0\Mindbox.AssemblyInfo.cs
+D:\repos\Mindbox\Task#1\Mindbox\obj\Debug\net7.0\Mindbox.csproj.CoreCompileInputs.cache
+D:\repos\Mindbox\Task#1\Mindbox\obj\Debug\net7.0\Mindbox.dll
+D:\repos\Mindbox\Task#1\Mindbox\obj\Debug\net7.0\refint\Mindbox.dll
+D:\repos\Mindbox\Task#1\Mindbox\obj\Debug\net7.0\Mindbox.pdb
+D:\repos\Mindbox\Task#1\Mindbox\obj\Debug\net7.0\ref\Mindbox.dll
